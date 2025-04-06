@@ -21,7 +21,7 @@ namespace FlowControl
                 Console.WriteLine($"Det tredje ordet är: {words[2]}" + Environment.NewLine);
             } else
             {
-                Console.WriteLine("Meninga måste bestå av minst 3 ord." + Environment.NewLine);
+                Console.WriteLine("Meningen måste bestå av minst 3 ord." + Environment.NewLine);
             }
         }
 
